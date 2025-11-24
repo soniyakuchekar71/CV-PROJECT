@@ -28,8 +28,8 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/soniyakuchekar71/CV-PROJECT](https://github.com/soniyakuchekar71/CV-PROJECT)
-    cd CV-PROJECT
+    git clone [https://github.com/soniyakuchekar71/Intelligent-OR-Scheduling-System](https://github.com/soniyakuchekar71/Intelligent-OR-Scheduling-System)
+    cd Intelligent-OR-Scheduling-System
     ```
 
 ### Usage
@@ -56,4 +56,5 @@ The success of this optimization lies in its ability to handle non-uniform, real
     * **Level 1:** `Emergency`
     * **Level 2 (Tie-breaker):** `Seniority` (Lower number = more senior)
     * **Level 3 (Final Tie-breaker):** `Shortest Duration`
+
 
