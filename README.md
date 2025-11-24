@@ -57,6 +57,3 @@ The success of this optimization lies in its ability to handle non-uniform, real
     * **Level 2 (Tie-breaker):** `Seniority` (Lower number = more senior)
     * **Level 3 (Final Tie-breaker):** `Shortest Duration`
 
-## 📁 Repository Structure (For Submission)
-
-Your GitHub repository must conform to the following structure for correct evaluation:
