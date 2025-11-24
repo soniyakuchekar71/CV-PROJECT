@@ -28,8 +28,8 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/OR-Scheduling-Optimization.git](https://github.com/yourusername/OR-Scheduling-Optimization.git)
-    cd OR-Scheduling-Optimization
+    git clone [https://github.com/soniyakuchekar71/CV-PROJECT](https://github.com/soniyakuchekar71/CV-PROJECT)
+    cd CV-PROJECT
     ```
 
 ### Usage
